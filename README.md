@@ -25,5 +25,6 @@ http://searle.x10host.com/Multicomp/index.html
 
 ## 8kB ROM 
 <img width="780" height="661" alt="wiz1" src="https://github.com/user-attachments/assets/d95e1636-a244-4ac6-94fb-9c4b61062548" />
+
 ## BASIC Ver 4.7b
 <img width="780" height="621" alt="wiz2" src="https://github.com/user-attachments/assets/f9a6271e-8eb3-4c8d-bd48-d1dda76c97e8" />
